@@ -1,0 +1,13 @@
+main(){
+  print("Example of Assignment operator");
+  var a=10;
+  a+=3;
+  print(a);
+  a-=5;
+  print(a);
+  a*=2;
+  print(a);
+  a~/=2;
+  print(a);
+  
+}
